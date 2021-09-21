@@ -1,5 +1,5 @@
 # ExpenseTracker: Expense Tracker Web App
-Expense Tracker will keep the track of your daily expenses in the simplest way possible. You can easily add or delete your Incomes and Expenses. You can easily analyze you expenses with the Expense Pie Chart.
+Expense Tracker will keep the track of your daily expenses in the simplest way possible. You can easily add or delete your Incomes and Expenses. You can easily analyze your expenses with the Expense Pie Chart.
 
 ### Go To Link:
 https://expense-tracker-aryanraj.herokuapp.com/
